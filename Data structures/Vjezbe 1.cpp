@@ -169,7 +169,7 @@ public:
 		int x=_head->info;//Spasimo vrijednost prijasnjeg clana;
 		Cvor* temp=_head;//Napravimo pomocni pokazivac na pocetni cvor;
 		_head=_head->next;//Pocetni pokazuje na sljedeci u nizu;
-		delete temp;//Obrisemo pomocni pokazivac jer head sada pokazuje na nesto drugo;
+		delete temp;//Unistimo temp jer je to prvi element (onaj koji smo uklonili);
 		_trenutno--;//Smanjimo brojac jer smo uklonili element;
 		return x;//Vratimo vrijednost;
 	}
@@ -293,7 +293,20 @@ public:
 
 	void dodaj_na_kraj(int x)override
 	{
-		//Jos nije implementirano;	
+		Cvor* noviZaDodati=new Cvor(x,nullptr);//Kreiramo novi clan za dodati, sa nullptr za next;
+
+		if(_head==nullptr)//Ako je ovo prvi clan za dodati
+			_head=noviZaDodati;//Dodaj ga odmah;
+		else
+		{
+			Cvor* trenutni=_head;
+			while(trenutni->next!=nullptr)//Sve dok trenutni element pokazuje na neki naredni
+				 trenutni=trenutni->next;//Zamjeni trenutni za taj naredni;
+			//Kada naidjes na prazni element (koji ne pokazuje ni na jedan naredni),
+			//Dodaj da on pokazuje na novi:
+			trenutni->next=noviZaDodati;
+			_trenutno++;//Jer smo dodali element;
+		}
 	}
 
 	int ukloni_sa_pocetka()override
@@ -301,14 +314,33 @@ public:
 		int x=_head->info;//Pohranimo vrijednost prvog;
 		Cvor* temp=_head;//Napravimo pomocni cvor koji pokazuje na prvi el (glavu);
 		_head=_head->next;//Preusmjerimo da prvi (glava) pokazuje na naredni;
-		delete temp;//Unistimo temp jer vise ne moze pokazivati na _head;
+		delete temp;//Unistimo temp jer je to prvi element (onaj koji smo uklonili);
 		_trenutno--;//Umanjimo brojac jer je uklonjen jedan element;
 		return x;//Vratimo vrijednost uklonjenog clana;
 	}
 
 	int ukloni_sa_kraja() override
 	{
-		return -1;//Nije jos implementirano;
+		if(_trenutno==0)
+			throw exception("Nema elemenata za ukloniti !");
+		else
+		{
+			Cvor* trenutni=_head;//Pocnemo od glave;
+			Cvor* prijeTrenutnog=nullptr;
+			while(trenutni->next!=nullptr)//Sve dok trenutni element pokazuje na neki naredni
+			{
+				prijeTrenutnog=trenutni;//Ovdje pamtimo predzadnji clan;
+				trenutni=trenutni->next;//Trenutni zamjeni sa narednim;
+			}
+			if(prijeTrenutnog!=nullptr)//Ako novi zadnji element nije nullptr znaci da on nije zadnji te
+				prijeTrenutnog->next=nullptr;//Da se zadnji nalazi poslije njega;//Tj ima vise el u listi,stoga njegov next postavi na nullptr jer je on (next) sada zadnji i treba bit null;
+			else
+				_head=nullptr;//Ako je samo jedan element u listi ostao, nulira se;
+			int x=trenutni->info;//Uzmemo vrijednost zadnjeg clana;
+			delete trenutni;//Obrisemo zadnji clan;
+			_trenutno--;//Smanjimo brojac jer smo uklonili jedan clan;
+			return x;
+		}
 	}
 
 	bool jel_prazna() override
@@ -377,7 +409,7 @@ void main()
 	LinkedStack s2;
 	
 	//funkcija(x1);
-	//funkcija(x2);
+	funkcija(x2);
 	//funkcija(s1);
-	funkcija(s2);
+	//funkcija(s2);
 }
