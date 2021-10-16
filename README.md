@@ -6,6 +6,9 @@
 
 <hr>
 
+**Data structures:**
+
+[Vjezbe 1 (15.10.2021.) Adil Joldic]()
 
 
 
