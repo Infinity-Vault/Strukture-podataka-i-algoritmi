@@ -8,7 +8,7 @@
 
 **Data structures:**
 
-[Vjezbe 1 (15.10.2021.) Adil Joldic]()
+[Vjezbe 1 (15.10.2021.) Adil Joldic](https://github.com/Infinity-Vault/Strukture-podataka-i-algoritmi/blob/main/Data%20structures/Vjezbe%201.cpp)
 
 
 
