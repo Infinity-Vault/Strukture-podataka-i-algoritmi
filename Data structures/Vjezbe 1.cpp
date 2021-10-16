@@ -48,7 +48,11 @@ public:
 	}
 };
 //Definisanje tipa;
-typedef int Tip;
+typedef int Tip;//typdef moze biti bilo koji primitivni tip podatka (int,char,float itd);
+//Isto tako moze biti user def tip podatka ali ide sintaksa:
+//typedef Osoba Tip;//typedef imeKlase/Strukture imeTipa (Tip);
+
+
 //Kreiranje strukture cvor;
 struct Cvor
 {
