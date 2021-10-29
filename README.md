@@ -21,5 +21,6 @@
 
 [Vjezbe 2 (22.10.2021.) Adil Joldic](https://github.com/Infinity-Vault/Strukture-podataka-i-algoritmi/blob/main/Data%20structures/Vjezbe%202.cpp)
 
+[Vjezbe 3 (29.10.2021.) Adil Joldic]()
 
 <hr>
