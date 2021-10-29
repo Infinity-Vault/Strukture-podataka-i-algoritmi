@@ -11,7 +11,7 @@
 
 [Big Oh notacija (uvod)](https://www.youtube.com/watch?v=__vX2sjlpXU)
 
-[Data Structures and Algorithm Analysis](https://github.com/Infinity-Vault/Strukture-podataka-i-algoritmi/raw/main/Materijali/Data_Structures_and_Algorithm_Analysis_in_C.pdf)
+[Data Structures and Algorithm Analysis in C](https://github.com/Infinity-Vault/Strukture-podataka-i-algoritmi/raw/main/Materijali/Data_Structures_and_Algorithm_Analysis_in_C.pdf)
 
 [Introduction to algorithms 3rd Edition](https://github.com/Infinity-Vault/Strukture-podataka-i-algoritmi/raw/main/Materijali/Introduction_to_algorithms-3rd%20Edition.pdf)
 
