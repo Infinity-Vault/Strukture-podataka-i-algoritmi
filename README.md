@@ -11,6 +11,10 @@
 
 [Big Oh notacija (uvod)](https://www.youtube.com/watch?v=__vX2sjlpXU)
 
+[Data Structures and Algorithm Analysis]()
+
+[Introduction to algorithms 3rd Edition]()
+
 **Data structures:**
 
 [Vjezbe 1 (15.10.2021.) Adil Joldic](https://github.com/Infinity-Vault/Strukture-podataka-i-algoritmi/blob/main/Data%20structures/Vjezbe%201.cpp)
