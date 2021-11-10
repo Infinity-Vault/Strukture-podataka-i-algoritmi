@@ -23,4 +23,6 @@
 
 [Vjezbe 3 (29.10.2021.) Adil Joldic](https://github.com/Infinity-Vault/Strukture-podataka-i-algoritmi/tree/main/Data%20structures/SPA%20vjezbe%203)
 
+[Vjezbe 4 (10.11.2021.) Adil Joldic]()
+
 <hr>

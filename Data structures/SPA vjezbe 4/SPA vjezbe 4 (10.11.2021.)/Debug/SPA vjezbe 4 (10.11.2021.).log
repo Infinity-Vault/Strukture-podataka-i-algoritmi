@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\haris\Desktop\SPA vjezbe 4 (10.11.2021.)\SPA vjezbe 4 (10.11.2021.)\Source.cpp(16,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\haris\Desktop\SPA vjezbe 4 (10.11.2021.)\SPA vjezbe 4 (10.11.2021.)\Source.cpp(29,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  SPA vjezbe 4 (10.11.2021.).vcxproj -> C:\Users\haris\Desktop\SPA vjezbe 4 (10.11.2021.)\Debug\SPA vjezbe 4 (10.11.2021.).exe
