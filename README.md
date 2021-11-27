@@ -29,6 +29,6 @@
 
 **Algorithms:**
 
-[Insertion i Bubble sort (12.11.2021.) Adil Joldic](https://github.com/Infinity-Vault/Strukture-podataka-i-algoritmi/tree/main/Algorithms/Insertion%20i%20Buuble%20sort)
+[Insertion i Bubble sort (12.11.2021.) Adil Joldic](https://github.com/Infinity-Vault/Strukture-podataka-i-algoritmi/tree/main/Algorithms/Insertion%20i%20Bubble%20sort)
 
 <hr>
