@@ -32,7 +32,7 @@ private:
 
 		//Kreiramo lijevi i desni node (dijete);
 		int lijevoDijete=2*indeks;
-		int desnoDijete=lijevoDijete+1;//Ili lijevoDijete+1;Isto je;
+		int desnoDijete=lijevoDijete+1;//Ili indeks*2+1;Isto je;
 		//Kreiramo poziciju (roditelja) sa kojim izmjena treba biti izvrsena;
 		int zamjeniSa=indeks;
 		
