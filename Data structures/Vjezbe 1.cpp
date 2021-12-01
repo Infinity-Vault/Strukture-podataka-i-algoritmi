@@ -59,7 +59,7 @@ struct Cvor
 	Cvor* next;//Pokazivac koji pokazuje na naredni clan niza;
 	Tip info;//Tip podatka (npr int) koji se cuva u tom cvoru;
 
-	//Dflt ctor;
+	//User-def ctor;
 	Cvor(Tip info, Cvor* next)
 	{
 		this->info = info;
