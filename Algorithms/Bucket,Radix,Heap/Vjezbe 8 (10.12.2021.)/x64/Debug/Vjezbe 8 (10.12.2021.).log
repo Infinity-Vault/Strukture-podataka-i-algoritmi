@@ -1,0 +1,3 @@
+﻿  HeapSortMain.cpp
+C:\Users\haris\Desktop\Vjezbe 8 (10.12.2021.)\Vjezbe 8 (10.12.2021.)\HeapSortMain.cpp(43,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Vjezbe 8 (10.12.2021.).vcxproj -> C:\Users\haris\Desktop\Vjezbe 8 (10.12.2021.)\x64\Debug\Heap Sort.exe
