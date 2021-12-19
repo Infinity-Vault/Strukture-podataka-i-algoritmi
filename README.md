@@ -27,7 +27,7 @@
 
 [Vjezbe 5 (12.11.2021.) Adil Joldic](https://github.com/Infinity-Vault/Strukture-podataka-i-algoritmi/tree/main/Data%20structures/Heap)
 
-[Vjezbe 6 (17.12.2021.) Adil Joldic]()
+[Vjezbe 6 (17.12.2021.) Adil Joldic](https://github.com/Infinity-Vault/Strukture-podataka-i-algoritmi/tree/main/Data%20structures/Vjezbe%206)
 
 **Algorithms:**
 
