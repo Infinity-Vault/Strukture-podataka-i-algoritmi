@@ -29,6 +29,8 @@
 
 [Vjezbe 6 (17.12.2021.) Adil Joldic](https://github.com/Infinity-Vault/Strukture-podataka-i-algoritmi/tree/main/Data%20structures/Vjezbe%206)
 
+[Vjezbe 7 (30.12.2021.) Adil Joldic]()
+
 **Algorithms:**
 
 [Insertion i Bubble sort (12.11.2021.) Adil Joldic](https://github.com/Infinity-Vault/Strukture-podataka-i-algoritmi/tree/main/Algorithms/Insertion%20i%20Bubble%20sort)

@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\haris\Desktop\Vjezbe 7 (30.12.2021.)\Vjezbe 7 (30.12.2021.)\Source.cpp(11,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\haris\Desktop\Vjezbe 7 (30.12.2021.)\Vjezbe 7 (30.12.2021.)\Source.cpp(12,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\haris\Desktop\Vjezbe 7 (30.12.2021.)\Vjezbe 7 (30.12.2021.)\BinarySearchTree.h(32): warning C4715: 'BinarySearchTree::RekurzijaDodaj': not all control paths return a value
+  Vjezbe 7 (30.12.2021.).vcxproj -> C:\Users\haris\Desktop\Vjezbe 7 (30.12.2021.)\x64\Debug\Vjezbe 7 (30.12.2021.).exe
