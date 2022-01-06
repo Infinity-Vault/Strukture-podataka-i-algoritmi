@@ -1,1 +1,3 @@
-Ovdje se nalaze riješeni ispitni zadatci iz predmeta SPA
+## [**(UVOD)**]
+
+Ovdje se nalaze riješenja ispitnih zadataka iz predmeta Algoritmi i Strukture Podataka
