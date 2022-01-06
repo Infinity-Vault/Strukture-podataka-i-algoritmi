@@ -37,3 +37,6 @@
 
 [Bucket,Radix i Heap sort (10.12.2021.) Adil Joldic](https://github.com/Infinity-Vault/Strukture-podataka-i-algoritmi/tree/main/Algorithms/Bucket%2CRadix%2CHeap)
 <hr>
+
+**Ispitni Zadatci:**
+[Prioritetni Red Sekvencijalni]
