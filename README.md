@@ -39,7 +39,8 @@
 
 
 **Ispitni Zadatci:**
-[Prioritetni Red Sekvencijalni]
+
+[Prioritetni Red Sekvencijalni] (https://github.com/Infinity-Vault/Strukture-podataka-i-algoritmi/tree/main/Ispitni%20Zadatci/Prioritetni%20Red%20Sekvencijalno%202D)
 
 <hr>
 
