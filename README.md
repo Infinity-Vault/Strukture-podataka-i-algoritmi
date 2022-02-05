@@ -42,7 +42,7 @@
 
 [Prioritetni Red Sekvencijalni](https://github.com/Infinity-Vault/Strukture-podataka-i-algoritmi/tree/main/Ispitni%20Zadatci/Prioritetni%20Red%20Sekvencijalno%202D)
 
-[Hesiranje chaining (ulancavanje) ispitni]()
+[Hesiranje chaining (ulancavanje) ispitni](https://github.com/Infinity-Vault/Strukture-podataka-i-algoritmi/tree/main/Ispitni%20zadaci/Hesiranje%20chaining%20ispitni)
 
 <hr>
 
