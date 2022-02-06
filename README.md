@@ -44,7 +44,7 @@
 
 [Hesiranje chaining (ulancavanje) ispitni](https://github.com/Infinity-Vault/Strukture-podataka-i-algoritmi/tree/main/Ispitni%20zadaci/Hesiranje%20chaining%20ispitni)
 
-[Hesiranje double-hashing ispitni]()
+[Hesiranje double-hashing ispitni](https://github.com/Infinity-Vault/Strukture-podataka-i-algoritmi/tree/main/Ispitni%20zadaci/Hesiranje%20double-hashing%20ispitni)
 
 [Ispitni integralno 26.01.2022.]()
 <hr>
