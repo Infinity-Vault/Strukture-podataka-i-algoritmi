@@ -46,7 +46,7 @@
 
 [Hesiranje double-hashing ispitni](https://github.com/Infinity-Vault/Strukture-podataka-i-algoritmi/tree/main/Ispitni%20zadaci/Hesiranje%20double-hashing%20ispitni)
 
-[Ispitni integralno 26.01.2022.]()
+[Ispitni integralno 26.01.2022.](https://github.com/Infinity-Vault/Strukture-podataka-i-algoritmi/raw/main/Ispitni%20zadaci/ASP-2022_01_26_zadaci_f.xlsx)
 <hr>
 
 **Template-i za vjezbanje**
