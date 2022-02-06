@@ -50,7 +50,7 @@
 <hr>
 
 **Template-i za vjezbanje**
-[Dijkstra template]()
+[Dijkstra template](https://github.com/Infinity-Vault/Strukture-podataka-i-algoritmi/raw/main/Template-i/Dijkstra%20template.xlsx)
 
 
 
