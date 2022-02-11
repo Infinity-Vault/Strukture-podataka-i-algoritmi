@@ -49,6 +49,8 @@
 [Ispitni integralno 26.01.2022.](https://github.com/Infinity-Vault/Strukture-podataka-i-algoritmi/raw/main/Ispitni%20zadaci/ASP-2022_01_26_zadaci_f.xlsx)
 
 [Kretanje po binarnom stablu](https://github.com/Infinity-Vault/Strukture-podataka-i-algoritmi/blob/main/Ispitni%20zadaci/Binarno_stablo_-kretanje-.xlsx)
+
+[Parcijalni ispit 02.12.2021](https://github.com/Infinity-Vault/Strukture-podataka-i-algoritmi/blob/main/Ispitni%20zadaci/ASP-2021_12_02_zadaci_prvi_parcijalni.xlsx)
 <hr>
 
 **Template-i za vjezbanje**
