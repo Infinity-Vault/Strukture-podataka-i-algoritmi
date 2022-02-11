@@ -46,7 +46,7 @@
 
 [Hesiranje double-hashing ispitni](https://github.com/Infinity-Vault/Strukture-podataka-i-algoritmi/tree/main/Ispitni%20zadaci/Hesiranje%20double-hashing%20ispitni)
 
-[Ispitni 01.10.2021](https://github.com/Infinity-Vault/Strukture-podataka-i-algoritmi/blob/main/Ispitni%20zadaci/ASP-2021_10_01_zadaci_.xlsx)
+[Ispitni integralno 01.10.2021](https://github.com/Infinity-Vault/Strukture-podataka-i-algoritmi/blob/main/Ispitni%20zadaci/ASP-2021_10_01_zadaci_.xlsx)
 
 [Parcijalni ispit 02.12.2021](https://github.com/Infinity-Vault/Strukture-podataka-i-algoritmi/blob/main/Ispitni%20zadaci/ASP-2021_12_02_zadaci_prvi_parcijalni.xlsx)
 
