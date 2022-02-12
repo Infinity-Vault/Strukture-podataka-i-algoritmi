@@ -46,13 +46,13 @@
 
 [Hesiranje double-hashing ispitni](https://github.com/Infinity-Vault/Strukture-podataka-i-algoritmi/tree/main/Ispitni%20zadaci/Hesiranje%20double-hashing%20ispitni)
 
-[Ispitni integralno 01.10.2021](https://github.com/Infinity-Vault/Strukture-podataka-i-algoritmi/blob/main/Ispitni%20zadaci/ASP-2021_10_01_zadaci_.xlsx)
+[Ispitni integralno 01.10.2021](https://github.com/Infinity-Vault/Strukture-podataka-i-algoritmi/raw/main/Ispitni%20zadaci/ASP-2021_10_01_zadaci_.xlsx)
 
-[Parcijalni ispit 02.12.2021](https://github.com/Infinity-Vault/Strukture-podataka-i-algoritmi/blob/main/Ispitni%20zadaci/ASP-2021_12_02_zadaci_prvi_parcijalni.xlsx)
+[Parcijalni ispit 02.12.2021](https://github.com/Infinity-Vault/Strukture-podataka-i-algoritmi/raw/main/Ispitni%20zadaci/ASP-2021_12_02_zadaci_prvi_parcijalni.xlsx)
 
 [Ispitni integralno 26.01.2022.](https://github.com/Infinity-Vault/Strukture-podataka-i-algoritmi/raw/main/Ispitni%20zadaci/ASP-2022_01_26_zadaci_f.xlsx)
 
-[Kretanje po binarnom stablu](https://github.com/Infinity-Vault/Strukture-podataka-i-algoritmi/blob/main/Ispitni%20zadaci/Binarno_stablo_-kretanje-.xlsx)
+[Kretanje po binarnom stablu](https://github.com/Infinity-Vault/Strukture-podataka-i-algoritmi/raw/main/Ispitni%20zadaci/Binarno_stablo_-kretanje-.xlsx)
 
 
 <hr>
